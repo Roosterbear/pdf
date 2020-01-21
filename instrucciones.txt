@@ -1,0 +1,5 @@
+https://github.com/spipu/html2pdf
+
+Debemos tener instalado COMPOSER
+Debemos tener un archivo composer.json
+Ejecutar: composer install
